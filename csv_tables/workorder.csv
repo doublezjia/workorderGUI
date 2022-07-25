@@ -1,2 +1,3 @@
-23@f.c,sdf,硬件故障,现场,处理中,2022-07-25
-a@163.com,23,其它事件,现场,处理中,2022-07-25
+name,problem,problem_category,method,problem_status,add_time
+a@b.c,sdf,桌面服务,现场,处理中,2022-07-25
+af@163.com,test,桌面服务,现场,处理中,2022-07-25
