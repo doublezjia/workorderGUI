@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "桌面服务",
+    "selects": [
+      {
+        "id": "1",
+        "select_name": "操作系统故障解决"
+      },
+      {
+        "id": "2",
+        "select_name": "软件安装/卸载"
+      },
+      {
+        "id": "3",
+        "select_name": "邮箱支持"
+      },
+      {
+        "id": "4",
+        "select_name": "Office系列"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "网络故障",
+    "selects": [
+      {
+        "id": "5",
+        "select_name": "网络链路故障"
+      },
+      {
+        "id": "6",
+        "select_name": "综合布线"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "硬件故障",
+    "selects": [
+      {
+        "id": "7",
+        "select_name": "硬件维修"
+      },
+      {
+        "id": "8",
+        "select_name": "设备安装"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "其它事件",
+    "selects": [
+      {
+        "id": "9",
+        "select_name": "巡检服务"
+      },
+      {
+        "id": "10",
+        "select_name": "设备借用"
+      }
+    ]
+  }
+]
